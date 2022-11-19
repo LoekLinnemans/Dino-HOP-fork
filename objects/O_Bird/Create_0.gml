@@ -1,0 +1,13 @@
+//start status
+state = "WALK";
+
+
+
+
+
+
+
+
+
+
+
