@@ -8,7 +8,7 @@ Credits to creators of the spirtes
 
 Credits to Dino sprite Creator https://arks.itch.io/dino-characters
 
-Credits to Frog sprite Creator https://triplefive-games.itch.io/super-ninja-frog-detective-fruit-adventure
+Credits to Frog sprite Creator https://pixelfrog-assets.itch.io/pixel-adventure-1
 
 Credits to Tile set stones Creator https://pixelfrog-assets.itch.io/kings-and-pigs
 
